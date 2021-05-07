@@ -1,0 +1,36 @@
+.card {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+    height: 250px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    background-color: #e63946;
+}
+
+.white {
+    background-color: #f1faee;
+}
+
+.cyan {
+    background-color: #a8dadc;
+}
+
+.light-blue {
+    background-color: #457b9d;
+}
+
+.blue {
+    background-color: #1d3557;
+}
+
+ul {
+    list-style: none;
+}

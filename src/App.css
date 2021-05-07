@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.title {
+  margin-bottom: 30px;
+  color: wheat;
+}
+
+.box-container {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  align-items: center;
+}
